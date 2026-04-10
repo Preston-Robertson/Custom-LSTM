@@ -119,7 +119,3 @@ The original project proposal outlining the research goals and methodology.
 - Olah, C. (2015). *Understanding LSTM Networks*. [colah.github.io](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ---
-
-## License
-
-This project does not currently specify a license. All rights reserved by the author.
